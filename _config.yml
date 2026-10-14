@@ -1,3 +1,5 @@
+# Configures the site published from the /docs folder.
+# GitHub Pages setting: Deploy from a branch -> main -> /docs
 theme: jekyll-theme-cayman
 title: ZHU Qinyi — Data Science Portfolio
 description: Data analysis portfolio for CISC7204, City University of Macau
