@@ -19,8 +19,6 @@ A portfolio documenting one completed data science project end to end:
 The project itself lives in a separate repository:
 **[ZHU-QINYI/data-science-project](https://github.com/ZHU-QINYI/data-science-project)**
 
-**Author:** ZHU Qinyi (MC64890) · CISC7204 Practice 09, City University of Macau
-
 ---
 
 ## How this site is built

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: ZHU Qinyi — Data Science Portfolio
+title: Data Science Portfolio
 ---
 
-# ZHU Qinyi
+# Data Science Portfolio
 
-**Data Science Portfolio** — CISC7204, City University of Macau
+**Practice 09 — Data Science**
 
 > ✅ **Live on GitHub Pages** · Python · pandas · scikit-learn · Matplotlib · Reproducible analysis
 
@@ -13,7 +13,7 @@ title: ZHU Qinyi — Data Science Portfolio
 
 ## About me
 
-I am a student on **CISC7204 Data Science** at City University of Macau. I am
+I am a data science student. I am
 interested in turning messy raw data into findings that someone else can actually
 reproduce and check. My work so far focuses on the full analysis loop: cleaning and
 profiling a dataset, choosing a method that fits the question rather than the other
@@ -145,7 +145,7 @@ reported metrics exactly.
 
 ---
 
-**ZHU Qinyi** · Student ID MC64890 · CISC7204 Practice 09, Data Science Portfolio
+**CISC7204 Practice 09 — Data Science Portfolio**
 
 *Built with GitHub Pages. Code under the MIT Licence; the penguins dataset is CC0 1.0.
 No sensitive information is published on this site.*

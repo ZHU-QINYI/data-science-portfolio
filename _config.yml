@@ -5,8 +5,8 @@
 # alternative publishing source while the first root deployment timed out on
 # GitHub's side. Pages now deploys from the root, so docs/ is a mirror only.
 theme: jekyll-theme-cayman
-title: ZHU Qinyi — Data Science Portfolio
-description: Data analysis portfolio for CISC7204, City University of Macau
+title: Data Science Portfolio
+description: A data science portfolio — penguin species classification, reproducible analysis
 show_downloads: false
 
 # Files that should not be copied into the published site.
