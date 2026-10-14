@@ -1,0 +1,26 @@
+# ---- Secrets: never commit these ----
+.env
+.env.*
+*.key
+*.pem
+*.p12
+secrets.json
+credentials.json
+*_token*
+*api_key*
+
+# ---- Jekyll ----
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# ---- OS / editor noise ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
